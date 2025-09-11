@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "hBedab1Q0YU=",
+  "dgSpecHash": "mVpoP7nKOUo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\spott\\CS\\CSC350\\CSC350 HW2\\CsharpProjects\\Project2\\Project2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\spott\\CS\\CSC350\\CSC350 HW2\\Starter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spott\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.19\\microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\spott\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.19\\microsoft.windowsdesktop.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\spott\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.19\\microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\spott\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.19\\microsoft.netcore.app.host.win-x64.8.0.19.nupkg.sha512"
+  ],
   "logs": []
 }

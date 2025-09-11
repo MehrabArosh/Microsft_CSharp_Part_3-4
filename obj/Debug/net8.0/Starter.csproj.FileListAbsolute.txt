@@ -1,0 +1,14 @@
+c:\Users\spott\CS\CSC350\CSC350 HW2\bin\Debug\net8.0\Starter.exe
+C:\Users\spott\CS\CSC350\CSC350 HW2\bin\Debug\net8.0\Starter.deps.json
+C:\Users\spott\CS\CSC350\CSC350 HW2\bin\Debug\net8.0\Starter.runtimeconfig.json
+c:\Users\spott\CS\CSC350\CSC350 HW2\bin\Debug\net8.0\Starter.dll
+c:\Users\spott\CS\CSC350\CSC350 HW2\bin\Debug\net8.0\Starter.pdb
+c:\Users\spott\CS\CSC350\CSC350 HW2\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\spott\CS\CSC350\CSC350 HW2\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+c:\Users\spott\CS\CSC350\CSC350 HW2\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+c:\Users\spott\CS\CSC350\CSC350 HW2\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+c:\Users\spott\CS\CSC350\CSC350 HW2\obj\Debug\net8.0\Starter.dll
+c:\Users\spott\CS\CSC350\CSC350 HW2\obj\Debug\net8.0\refint\Starter.dll
+c:\Users\spott\CS\CSC350\CSC350 HW2\obj\Debug\net8.0\Starter.pdb
+C:\Users\spott\CS\CSC350\CSC350 HW2\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+C:\Users\spott\CS\CSC350\CSC350 HW2\obj\Debug\net8.0\ref\Starter.dll
